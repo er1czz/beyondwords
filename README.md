@@ -1,6 +1,6 @@
 # Beyond Words - Predicting user decision with text data
 <p align="center"><img src="https://github.com/er1czz/beyondwords/blob/main/background.PNG" style = "border:10px solid white"></p>  
-<p align="center">[Market Size of Public Cloud SaaS from 2008 to 2020, source: Statista] </p>
+<p align="center"><b>Market Size of Public Cloud SaaS from 2008 to 2020, source: Statista </b></p>
 <p align="center">https://www.statista.com/statistics/510333/worldwide-public-cloud-software-as-a-service) </p> 
 
 
