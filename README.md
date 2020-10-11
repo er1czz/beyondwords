@@ -44,7 +44,7 @@
 <p align="center"><b>NLP Models Performance Comparision</b>, OTS: off-the-shelf </p>
 </details>
 
-<p><b> Updated 2020/10/11</b></p>
-<p align="center"><b> [Return to GitHub](https://github.com/er1czz) </b></p>
+<p><b> Updated 2020/10/11</b></p>  
+[Return to GitHub](https://github.com/er1czz)
 <p align="center">  >>>>>> <b> CC BY 4.0 </b> <<<<<<</p>
 
