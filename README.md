@@ -1,6 +1,6 @@
 # Beyond Words - predicting user decision with text data
 <p align="center">
-   <img src="https://github.com/er1czz/beyondwords/blob/main/word_cloud_1.png"  width="500"/> 
+   <img src="word_cloud_1.png"  width="500"/> 
 </p>  
 
 ## Executive Summary
