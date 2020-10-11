@@ -12,7 +12,7 @@
 1. Preprocessing text data for machine to read
  - Converting emoji and emoticon by [*emoji*](https://github.com/carpedm20/emoji/) and [*emot*](https://github.com/NeelShah18/emot) packages, respectively.
  - Note: although [*emot*](https://github.com/NeelShah18/emot) can also process emoji, its emoji database is incomplete.
- 
+ - [Example (click)](https://github.com/er1czz/beyondwords/blob/main/emo_convert.png)
 2. Choosing the right natural language processing (NLP)models
  - Unsupervised NLP: TextBlob and VADER
  - Supervised NLP: [Pretrained BERT (off-the-self)](https://huggingface.co/transformers/main_classes/pipelines.html#transformers.pipeline)
@@ -25,9 +25,6 @@
  - Sentiment, likes, words, characters
  - A stacking classifier (Random Forest, XGBoost, and Ridge combined by Logistic Regression)
  - User engagement is the key (top predictive features: characters, words, and their averages)
-
-<p align="center"><img src="https://github.com/er1czz/beyondwords/blob/main/emo_convert.PNG" height="300"/></p>
-<p align="center"><b>Converting emojis and emoticons</b></p>
 
 <p align="center"><img src="https://github.com/er1czz/beyondwords/blob/main/NLP_benchmark.PNG" height="300"/></p>
 <p align="center"><b>NLP Models Performance Comparision</b>, OTS: off-the-shelf </p>
