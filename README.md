@@ -3,10 +3,13 @@
 <p align="center"><b>Market Size of Public Cloud SaaS from 2008 to 2020, source: Statista </b></p>
 <p align="center">(source)https://www.statista.com/statistics/510333/worldwide-public-cloud-software-as-a-service </p> 
 
-
-
   * Software as a service (SaaS) is a major sector of cloud computing business. To thrive in this competitive market, growing user base and preventing user churn are crucial for business. To help a company quickly adapt its product to meet users’ needs, it is important to develop a model that can foretell customer behavior.  
-  * Performing sentiment and text analysis on user communication data is an effective approach to reflect user experience or satisfaction level. A scoring system based on the sentiment and text analysis can predict when a free-trial user is about to become a paid subscriber and when a user is about to leave.   
-  * This predictive model can help a company developing effective marketing strategy to target users. Consequently, the revenue is expected to be improved by reducing the churning rate and increasing the conversion rate.
+  * Performing sentiment and text analysis on user communication data can be an effective approach to reflect user experience or satisfaction level. A prediction algorithm based on the sentiment and text analysis can predict when a free-trial user is about to become a paid subscriber and when a user is about to unsubscribe.   
+  * This algorithmic approach can help client company developing effective marketing strategy to target users. Consequently, the revenue is expected to be improved by increasing the conversion rate and or reducing the churning rate.
 
-### The client of this consulting project is a startup SaaS (Software as a Service) company specializing on a fitness app designed for runners. The data are generated from user communication in-app.
+#### The client of this consulting project is a startup SaaS (Software as a Service) company specializing on a fitness app designed for runners. The data are generated from user communication in-app.
+
+1. Preprocessing text data for machine to read
+2. Choosing the right model
+3. Tuning the model
+4. Predicting user conversion within free-trial period
