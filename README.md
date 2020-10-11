@@ -33,12 +33,12 @@
 ## Examples
  <details>
   <summary>Click to show to the example of emoji and emoticon conversion</summary>
- <p align="center"><img src="https://github.com/er1czz/beyondwords/blob/main/emo_convert.png" /></p>
+ <p align="center"><img src="emo_convert.png" /></p>
 </details>
 
  <details>
   <summary>Click to show to the Comparision of Sentiment Analysis of different NLP models</summary>
-<p align="center"><img src="https://github.com/er1czz/beyondwords/blob/main/NLP_benchmark.PNG" /></p>
+<p align="center"><img src="NLP_benchmark.PNG" /></p>
 <p align="center"><b>NLP Models Performance Comparision</b>, OTS: off-the-shelf </p>
 </details>
 
