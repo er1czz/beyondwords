@@ -1,7 +1,6 @@
 # Beyond Words - predicting user decision with text data
-<p align="center"><img src="https://github.com/er1czz/beyondwords/blob/main/background.PNG", width="600", style = "border:10px solid white"></p>  
-<p align="center"><b>Market Size of Public Cloud SaaS from 2008 to 2020, source: Statista </b></p>
-<p align="center">(source)https://www.statista.com/statistics/510333/worldwide-public-cloud-software-as-a-service </p> 
+<p align="center"><img src="https://github.com/er1czz/beyondwords/blob/main/background.PNG", width="300", style = "border:10px solid white"></p>  
+<p align="center">Market Size of SaaS from 2008 to 2020 by [Statista](https://www.statista.com/statistics/510333/worldwide-public-cloud-software-as-a-service)</p>
 
 ## Executive Summary
   * Software as a service (SaaS) is a major sector of cloud computing business. To thrive in this competitive market, growing user base is crucial drive of the business. Predicting and understanding customer decision is imperative to help a company quickly adapt its product to meet users’ needs.  
