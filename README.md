@@ -10,7 +10,7 @@
 
 #### The client of this consulting project is a startup SaaS (Software as a Service) company specializing on a fitness app designed for runners. The data are generated from user communication in-app.
 
-<p> The key steps are listed as follows:</p>
+**The key steps are listed as follows:**   
 1. Preprocessing text data for machine to read
 2. Choosing the right model
 3. Tuning the model with proper labels
