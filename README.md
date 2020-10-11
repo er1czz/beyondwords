@@ -30,7 +30,7 @@
 
 5. **Takeaways** 
    - Top predictive features: characters, words, and their averages
-   - User engagement is a key factor of user conversion
+   - User engagement level is a key indicator of conversion within the free-trial
 
 ## Examples
  <details>
