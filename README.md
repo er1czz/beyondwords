@@ -45,10 +45,10 @@
 </details>
    
 
-[**My GitHub**](https://github.com/er1czz)
+
 <div align="center"> 
    
-**Updated 2020/10/11**  
+**Updated 2020/10/11**  [**Return to My GitHub**](https://github.com/er1czz)
 **>>>>>> CC BY 4.0 <<<<<<**
 
 </div>
