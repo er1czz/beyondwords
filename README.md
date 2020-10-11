@@ -2,7 +2,6 @@
 <p align="center">
    <img src="https://github.com/er1czz/beyondwords/blob/main/word_cloud_1.png"  width="500"/> 
 </p>  
-<p align="center"><b>Word Cloud Generated from User Text Data</b></p>
 
 ## Executive Summary
   * Software as a service (SaaS) is a major sector of cloud computing business. To thrive in this competitive market, growing user base is a crucial drive of business. Predicting and understanding customer decision is imperative to help a company quickly adapt its product to meet users’ needs.  
