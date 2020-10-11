@@ -26,7 +26,7 @@
  - A stacking classifier (Random Forest, XGBoost, and Ridge combined by Logistic Regression)
  - User engagement is the key (top predictive features: characters, words, and their averages)
 
-
+## Examples
  <details>
   <summary>Click to show to the example of emoji and emoticon conversion</summary>
  <p align="center"><img src="https://github.com/er1czz/beyondwords/blob/main/emo_convert.png" /></p>
