@@ -21,7 +21,7 @@
  
 4. Predicting user conversion within free-trial period
  - Sentiment, likes, words, characters
- - A stacking classifier (RandomForest, XGBoost, and Ridge combined by Logistic Regression)
- - User engagement is the key predictor (top predictive features: characters, words, and their averages)
+ - A stacking classifier (Random Forest, XGBoost, and Ridge combined by Logistic Regression)
+ - User engagement is the key (top predictive features: characters, words, and their averages)
 
 **To Be Continued**
