@@ -12,7 +12,11 @@
 1. Preprocessing text data for machine to read
  - Converting emoji and emoticon by [*emoji*](https://github.com/carpedm20/emoji/) and [*emot*](https://github.com/NeelShah18/emot) packages, respectively.
  - Note: although [*emot*](https://github.com/NeelShah18/emot) can also process emoji, its emoji database is incomplete.
- - [Example (click)](https://github.com/er1czz/beyondwords/blob/main/emo_convert.png)
+ <details>
+  <summary>Example: click to show</summary>
+ <p align="center"><img src="https://github.com/er1czz/beyondwords/blob/main/emo_convert.png" /></p>
+</details>
+
 2. Choosing the right natural language processing (NLP)models
  - Unsupervised NLP: TextBlob and VADER
  - Supervised NLP: [Pretrained BERT (off-the-self)](https://huggingface.co/transformers/main_classes/pipelines.html#transformers.pipeline)
