@@ -45,6 +45,6 @@
 </details>
 
 <p><b> Updated 2020/10/11</b></p>  
-<p><b>My GitHub: https://github.com/er1czz</b></p>
+[**My GitHub:**](https://github.com/er1czz)
 <p align="center">  >>>>>> <b> CC BY 4.0 </b> <<<<<<</p>
 
