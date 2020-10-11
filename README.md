@@ -10,21 +10,25 @@
 
 ## Project Key Procedures
 1. Preprocessing text data for machine to read
- - Converting emoji and emoticon by [*emoji*](https://github.com/carpedm20/emoji/) and [*emot*](https://github.com/NeelShah18/emot) packages, respectively.
+ - Converte emoji and emoticon by [*emoji*](https://github.com/carpedm20/emoji/) and [*emot*](https://github.com/NeelShah18/emot) packages, respectively.
  - Note: although [*emot*](https://github.com/NeelShah18/emot) can also process emoji, its emoji database is incomplete.
 
 2. Choosing the right natural language processing (NLP)models
- - Unsupervised NLP: TextBlob and VADER
- - Supervised NLP: [Pretrained BERT (off-the-self)](https://huggingface.co/transformers/main_classes/pipelines.html#transformers.pipeline)
+ - Test unsupervised NLP: TextBlob and VADER
+ - Test supervised NLP: [Pretrained BERT (off-the-self)](https://huggingface.co/transformers/main_classes/pipelines.html#transformers.pipeline)
  
 3. Tuning the model with proper labels
- - Customized two label classes: Tone (netural/positive) and Fact (none/partial/rich)
+ - Create two label classes: Tone (netural/positive) and Fact (none/partial/rich)
  - Fine-tune BERT through [ktrain](https://arxiv.org/abs/2004.10703)
  
 4. Predicting user conversion within free-trial period
- - Sentiment, likes, words, characters
- - A stacking classifier (Random Forest, XGBoost, and Ridge combined by Logistic Regression)
- - User engagement is the key (top predictive features: characters, words, and their averages)
+ - Only use text data generated within the free-trial period
+ - Extract sentiment features, number of likes, words, characters, as well as their average by comment number for each user
+ - Apply a tacking classifier (Random Forest, XGBoost, and Ridge combined by Logistic Regression)
+
+5. Takeaways
+ - Top predictive features: characters, words, and their averages
+ - User engagement is the key 
 
 ## Examples
  <details>
