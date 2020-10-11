@@ -9,8 +9,19 @@
 
 **The key steps of this data science project are listed as follows:**   
 1. Preprocessing text data for machine to read
+ - Emoji, emoticon, and nuances
+ 
 2. Choosing the right model
+ - Unsupervised NLP (TextBlob, VADER)
+ - Supervised NLP (Pretrained BERT)
+ 
 3. Tuning the model with proper labels
-4. Predicting user conversion within free-trial period  
+ - Customized labels: Tone and Fact
+ - Fine-tune BERT (single class or multiclass)
+ 
+4. Predicting user conversion within free-trial period
+ - Sentiment, likes, words, characters
+ - A stacking classifier (RandomForest, XGBoost, and Ridge combined by Logistic Regression)
+ - User engagement is the key predictor (top predictive features: characters, words, and their averages)
 
 **To Be Continued**
