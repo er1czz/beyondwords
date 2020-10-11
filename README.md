@@ -22,7 +22,7 @@
  - Create two types of labels for each text: Tone (netural/positive) and Fact (none/partial/rich)
  - Fine-tune BERT through [ktrain](https://arxiv.org/abs/2004.10703)
  
-4. Predicting user conversion within free-trial period
+4. Predicting user subscription within free-trial period
  - Only use text data generated within the free-trial period
  - Extract sentiment features, number of likes, words, characters, as well as their average by comment number for each user
  - Apply a tacking classifier (Random Forest, XGBoost, and Ridge combined by Logistic Regression)
