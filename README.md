@@ -9,20 +9,20 @@
   * Several features were extracted from the text data by machine learning, including sentiment, number of characters, number of words, etc. A predictive algorithm was applied based on these features to predict user decision. Specifically, this model examined user conversion events within the free-trial period and predicted all the events. Therefore, this algorithmic approach can facilitate the development of effective marketing strategies for client to grow the premium user base by increasing the conversion rate. Similar approach can be used to improve user retention by predicting user unsubscription events (customer churn).
 
 ## Key Procedures
-1. Preprocessing text data for machine to read
+1. **Preprocessing text data for machine to read**
  - Converte emoji and emoticon by [*emoji*](https://github.com/carpedm20/emoji/) and [*emot*](https://github.com/NeelShah18/emot) packages, respectively.
  - Note: although [*emot*](https://github.com/NeelShah18/emot) can also process emoji, its emoji database is incomplete.
 
-2. Choosing the right natural language processing (NLP)models
+2. **Choosing the right natural language processing (NLP)models**
  - Test unsupervised NLP: [TextBlob](https://textblob.readthedocs.io) and [VADER](https://www.nltk.org/_modules/nltk/sentiment/vader.html)
  - Test supervised NLP: [Pretrained BERT (state-of-the-art and off-the-shelf)](https://huggingface.co/transformers/main_classes/pipelines.html#transformers.pipeline)
  - Highly skewed data: user text contents were overwhelmingly positive and supportive, unsuitable for existing unsupervised models or off-the-shelf supervised models.
  
-3. Tuning BERT model with proper labelling
+3. **Tuning BERT model with proper labelling**
  - Create two types of labels for each text: Tone (netural/positive) and Fact (none/partial/rich)
  - Fine-tune BERT through [ktrain](https://arxiv.org/abs/2004.10703)
  
-4. Predicting user subscription within free-trial period
+4. **Predicting user subscription within free-trial period**
  - Only use text data generated within the time period of free-trial
  - Extract sentiment features, number of likes, words, characters, as well as their average by comment number for each user
  - Apply a stacking classifier (Random Forest, XGBoost, and Ridge combined by Logistic Regression)
