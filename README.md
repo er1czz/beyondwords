@@ -20,7 +20,8 @@
  
 3. **Tuning BERT model with proper labelling**
     - Create two types of labels for each text: Tone (netural/positive) and Fact (none/partial/rich)
-    - Fine-tune BERT through [ktrain](https://arxiv.org/abs/2004.10703)
+    - Fine-tune BERT through [ktrain](https://arxiv.org/abs/2004.10703) for each label separately
+    - Achieved accuracy score 0.85 and 0.78 for Tone and Fact, respectively
  
 4. **Predicting user subscription within free-trial period**
     - Only use text data generated within the time period of free-trial
