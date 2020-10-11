@@ -44,5 +44,4 @@
 <p align="center"><b>NLP Models Performance Comparision</b>, OTS: off-the-shelf </p>
 </details>
 
-
-**To Be Continued**
+<p align="center">  >>>>>> <b> CC BY 4.0 </b> <<<<<<</p>
