@@ -1,4 +1,4 @@
-<h1> Beyond Words - predicting user decision with text data</h1>
+# Beyond Words - predicting user decision with text data</h1>
 <p align="center">
    <img src="word_cloud_1.png"  width="500"/> 
 </p>  
@@ -32,7 +32,7 @@
  - Top predictive features: characters, words, and their averages
  - User engagement is a key factor to improve conversion
 
-<h2> Examples</h2>
+## Examples
  <details>
    <summary>Click to show to an example of <b>Emoji and Emoticon Conversion</b></summary>
  <p align="center"><img src="emo_convert.png" /></p>
