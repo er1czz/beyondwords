@@ -1,14 +1,14 @@
-# Beyond Words - predicting user decision with text data
+<h1> Beyond Words - predicting user decision with text data</h1>
 <p align="center">
    <img src="word_cloud_1.png"  width="500"/> 
 </p>  
 
-## Executive Summary
+<h2> Executive Summary</h2>
   * Software as a service (SaaS) is a major sector of cloud computing business. To thrive in this competitive market, growing user base is a crucial drive of business. Predicting and understanding customer decision is imperative to help a company quickly adapt its product to meet users’ needs.  
   * Performing sentiment and text analysis on user communication data can be an effective approach to reflect user experience or satisfaction level. An algorithmic approach based on the sentiment and text analysis was carried out to predict when a user is about to subscribe or unsubscribe. The client of this consulting project is a startup company specializing in a fitness app designed for runners. The data are generated from user communication in-app.  
   * Several features were extracted from the text data by machine learning, including sentiment, number of characters, number of words, etc. A predictive algorithm was applied based on these features to predict user decision. Specifically, this model examined user conversion events within the free-trial period and predicted all the events. Therefore, this algorithmic approach can facilitate the development of effective marketing strategies for client to grow the premium user base by increasing the conversion rate. Similar approach can be used to improve user retention by predicting user unsubscription events (customer churn).
 
-## Key Procedures
+<h2> Key Procedures</h2>
 1. Preprocessing text data for machine to read
  - Converte emoji and emoticon by [*emoji*](https://github.com/carpedm20/emoji/) and [*emot*](https://github.com/NeelShah18/emot) packages, respectively.
  - Note: although [*emot*](https://github.com/NeelShah18/emot) can also process emoji, its emoji database is incomplete.
@@ -32,7 +32,7 @@
  - Top predictive features: characters, words, and their averages
  - User engagement is a key factor to improve conversion
 
-## Examples
+<h2> Examples</h2>
  <details>
    <summary>Click to show to an example of <b>Emoji and Emoticon Conversion</b></summary>
  <p align="center"><img src="emo_convert.png" /></p>
@@ -44,5 +44,7 @@
 <p align="center"><b>NLP Models Performance Comparision</b>, OTS: off-the-shelf </p>
 </details>
 
-#### Updated 2020/10/11
+<p><b> Updated 2020/10/11</b></p>
+<p align="center"><b> [Return to GitHub](https://github.com/er1czz) </b></p>
 <p align="center">  >>>>>> <b> CC BY 4.0 </b> <<<<<<</p>
+
