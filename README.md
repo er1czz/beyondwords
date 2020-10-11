@@ -19,7 +19,7 @@
  - Need to train NLP model using client's data
  
 3. Tuning the model with proper labels
- - Create two label classes: Tone (netural/positive) and Fact (none/partial/rich)
+ - Create two types of labels for each text: Tone (netural/positive) and Fact (none/partial/rich)
  - Fine-tune BERT through [ktrain](https://arxiv.org/abs/2004.10703)
  
 4. Predicting user conversion within free-trial period
