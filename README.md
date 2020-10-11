@@ -33,7 +33,7 @@
 
 ## Examples
  <details>
-  <summary>Click to show to the example of emoji and emoticon conversion</summary>
+  <summary>Click to show to an example of emoji and emoticon conversion</summary>
  <p align="center"><img src="emo_convert.png" /></p>
 </details>
 
