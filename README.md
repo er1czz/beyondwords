@@ -14,7 +14,7 @@
  - Note: although [*emot*](https://github.com/NeelShah18/emot) can also process emoji, its emoji database is incomplete.
 
 2. Choosing the right natural language processing (NLP)models
- - Test unsupervised NLP: TextBlob and VADER
+ - Test unsupervised NLP: [TextBlob](https://textblob.readthedocs.io) and [VADER](https://www.nltk.org/_modules/nltk/sentiment/vader.html)
  - Test supervised NLP: [Pretrained BERT (off-the-self)](https://huggingface.co/transformers/main_classes/pipelines.html#transformers.pipeline)
  
 3. Tuning the model with proper labels
