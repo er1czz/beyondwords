@@ -18,7 +18,7 @@
  - Test supervised NLP: [Pretrained BERT (state-of-the-art and off-the-shelf)](https://huggingface.co/transformers/main_classes/pipelines.html#transformers.pipeline)
  - Highly skewed data: user text contents were overwhelmingly positive and supportive, unsuitable for existing unsupervised models or off-the-shelf supervised models.
  
-3. Tuning BERT model with proper labels
+3. Tuning BERT model with proper labelling
  - Create two types of labels for each text: Tone (netural/positive) and Fact (none/partial/rich)
  - Fine-tune BERT through [ktrain](https://arxiv.org/abs/2004.10703)
  
