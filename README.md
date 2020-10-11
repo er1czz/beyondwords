@@ -15,12 +15,12 @@
 
 2. Choosing the right natural language processing (NLP)models
  - Test unsupervised NLP: [TextBlob](https://textblob.readthedocs.io) and [VADER](https://www.nltk.org/_modules/nltk/sentiment/vader.html)
- - Test supervised NLP: [Pretrained BERT (off-the-self)](https://huggingface.co/transformers/main_classes/pipelines.html#transformers.pipeline)
+ - Test supervised NLP: [Pretrained BERT (state-of-the-art)](https://huggingface.co/transformers/main_classes/pipelines.html#transformers.pipeline)
  - Client's data was highly skew: user text contents were overwhelmingly positive and supportive, unsuitable for exsiting unsupervised or pre-trained models.
  
-3. Tuning state-of-the-art NLP model with proper labels
+3. Tuning BERT model with proper labels
  - Create two types of labels for each text: Tone (netural/positive) and Fact (none/partial/rich)
- - Fine-tune **BERT** through [ktrain](https://arxiv.org/abs/2004.10703)
+ - Fine-tune BERT through [ktrain](https://arxiv.org/abs/2004.10703)
  
 4. Predicting user conversion within free-trial period
  - Only use text data generated within the free-trial period
