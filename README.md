@@ -39,7 +39,7 @@
 </details>
 
  <details>
-  <summary>Click to compare the results of sentiment analyzed by different NLP models</summary>
+  <summary>Click to show the sanity check of sentiment analysis by different NLP models</summary>
 <p align="center"><img src="NLP_benchmark.PNG" /></p>
 <p align="center"><b>NLP Models Performance Comparision</b>, OTS: off-the-shelf </p>
 </details>
