@@ -26,9 +26,10 @@
  - A stacking classifier (Random Forest, XGBoost, and Ridge combined by Logistic Regression)
  - User engagement is the key (top predictive features: characters, words, and their averages)
 
-<p align="center"><img src="https://github.com/er1czz/beyondwords/blob/main/emo_convert.PNG"  width="700"/></p>
+<p align="center"><img src="https://github.com/er1czz/beyondwords/blob/main/emo_convert.PNG" /></p>
+<p align="center"><img src="https://github.com/er1czz/beyondwords/blob/main/NLP_benchmark.PNG" border: 1px solid black/></p>
 <p align="center"><b>Converting emojis and emoticons</b> </p>
-<p align="center"><img src="https://github.com/er1czz/beyondwords/blob/main/NLP_benchmark.PNG"  width="700"/></p>
+
 <p align="center"><b>NLP Models Performance Comparision</b>, OTS: off-the-shelf </p>
 
 
