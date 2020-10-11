@@ -49,8 +49,8 @@
 <div align="center"> 
    
 **Updated 2020/10/11**  
+**>>>>>> CC BY 4.0 <<<<<<**  
 [**Return to My GitHub**](https://github.com/er1czz)  
-**>>>>>> CC BY 4.0 <<<<<<**
 
 </div>
 
