@@ -19,9 +19,10 @@
     - Highly skewed data: user text contents were overwhelmingly positive and supportive, unsuitable for existing unsupervised models or off-the-shelf supervised models.
  
 3. **Tuning BERT model with proper labelling**
-    - Create two types of labels for each text: Tone (netural/positive) and Fact (none/partial/rich)
-    - Fine-tune BERT through [ktrain](https://arxiv.org/abs/2004.10703) for each label separately
+    - Create two type of labels for each text: Tone (netural/positive) and Fact (none/partial/rich)
+    - Fine-tune two BERT models through [ktrain](https://arxiv.org/abs/2004.10703) for each label class separately
     - Achieved accuracy score 0.85 and 0.78 for Tone and Fact, respectively
+    - Note: a less computationally intensive approach is combining two label classes into one (2x3) to train one BERT model (accuracy score 0.67 due to data imbalance)
  
 4. **Predicting user subscription within free-trial period**
     - Only use text data generated within the time period of free-trial
