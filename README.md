@@ -6,7 +6,7 @@
 ## Executive Summary
   * Software as a service (SaaS) is a major sector of cloud computing business. To thrive in this competitive market, growing user base and preventing user churn are crucial for business. To help a company quickly adapt its product to meet users’ needs, it is important to develop a model that can foretell customer behavior.  
   * Performing sentiment and text analysis on user communication data can be an effective approach to reflect user experience or satisfaction level. A prediction algorithm based on the sentiment and text analysis can predict when a user is about to subscribe or unsubscribe. The client of this consulting project is a startup company specializing on a fitness app designed for runners. The data are generated from user communication in-app.  
-  * Several features were extracted from the text data, including sentiment, number of characters, number of words, etc. A classification model was trained using these features, which can predict near 80% user conversion events with the free-trial period. This algorithmic approach can help client company developing effective marketing strategy to target users. Consequently, the revenue is expected to be improved by increasing the conversion rate and reducing the churning rate.
+  * Several features were extracted from the text data, including sentiment, number of characters, number of words, etc. A classification model was trained using these features, which can predict near all user conversion events within the free-trial period. This algorithmic approach can help client company developing effective marketing strategy to target users. Consequently, the revenue is expected to be improved by increasing the conversion rate and reducing the churning rate.
 
 
 
