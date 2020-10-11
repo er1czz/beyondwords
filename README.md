@@ -43,12 +43,13 @@
 <p align="center"><img src="NLP_benchmark.PNG" /></p>
 <p align="center"><b>NLP Models Performance Comparision</b>, OTS: off-the-shelf </p>
 </details>
+   
 
+[**My GitHub**](https://github.com/er1czz)
 <div align="center"> 
    
 **Updated 2020/10/11**  
-[**My GitHub**](https://github.com/er1czz)
->>>>>> **CC BY 4.0** <<<<<<
+**>>>>>> CC BY 4.0 <<<<<<**
 
 </div>
 
