@@ -1,6 +1,6 @@
 # Beyond Words - predicting user decision with text data
 <p align="center">
-   <img src="https://github.com/er1czz/beyondwords/blob/main/word_cloud_1.png"  width="500" style = "border:30px solid white"/> 
+   <img src="https://github.com/er1czz/beyondwords/blob/main/word_cloud_1.png"  width="500" style = "border:10px solid white"/> 
 </p>  
 <p align="center"><b>Word Cloud Generated from User Text Data</b></p>
 
