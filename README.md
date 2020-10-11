@@ -1,6 +1,6 @@
 # Beyond Words - predicting user decision with text data
 <p align="center">
-   <img src="https://github.com/er1czz/beyondwords/blob/main/word_cloud_1.png"  width="500" style = "border:10px solid white"/> 
+   <img src="https://github.com/er1czz/beyondwords/blob/main/word_cloud_1.png"  width="500" style = "border:1px solid white"/> 
 </p>  
 <p align="center"><b>Word Cloud Generated from User Text Data</b></p>
 
@@ -27,7 +27,7 @@
  - A stacking classifier (Random Forest, XGBoost, and Ridge combined by Logistic Regression)
  - User engagement is the key (top predictive features: characters, words, and their averages)
 
-<p align="center"><img src="https://github.com/er1czz/beyondwords/blob/main/NLP_benchmark.PNG", style = "border:10px solid white"></p>
+<p align="center"><img src="https://github.com/er1czz/beyondwords/blob/main/NLP_benchmark.PNG", style = "border:1px solid white"></p>
 <p align="center"><b>NLP Models Performance Comparision</b>, OTS: off-the-shelf </p>
 
 
