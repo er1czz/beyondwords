@@ -23,7 +23,7 @@
  - Fine-tune BERT through [ktrain](https://arxiv.org/abs/2004.10703)
  
 4. Predicting user subscription within free-trial period
- - Only use text data generated within the free-trial period
+ - Only use text data generated within the time period of free-trial
  - Extract sentiment features, number of likes, words, characters, as well as their average by comment number for each user
  - Apply a stacking classifier (Random Forest, XGBoost, and Ridge combined by Logistic Regression)
  - Predicted almost all conversion events (recall 0.99, precision 0.60)
