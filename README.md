@@ -9,15 +9,16 @@
 
 **The key steps of this data science project are listed as follows:**   
 1. Preprocessing text data for machine to read
- - Emoji, emoticon, and nuances
+ - Converting emoji and emoticon by [emoji](https://github.com/carpedm20/emoji/) and [emot](https://github.com/NeelShah18/emot) packages, respectively.
+ - Note: although emot can also process emoji, its emoji database is incomplete.
  
-2. Choosing the right model
- - Unsupervised NLP (TextBlob, VADER)
- - Supervised NLP (Pretrained BERT)
+2. Choosing the right natural language processing (NLP)models
+ - Unsupervised NLP: TextBlob and VADER
+ - Supervised NLP: [Pretrained BERT (off-the-self)](https://huggingface.co/transformers/main_classes/pipelines.html#transformers.pipeline)
  
 3. Tuning the model with proper labels
- - Customized labels: Tone and Fact
- - Fine-tune BERT (single class or multiclass)
+ - Customized two label classes: Tone (netural/positive) and Fact (none/partial/rich)
+ - Fine-tune BERT through [ktrain](https://arxiv.org/abs/2004.10703)
  
 4. Predicting user conversion within free-trial period
  - Sentiment, likes, words, characters
