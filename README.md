@@ -11,7 +11,7 @@
 ## Key Procedures
 1. **Preprocessing text data for machine to read**
     - Converte emoji and emoticon by [*emoji*](https://github.com/carpedm20/emoji/) and [*emot*](https://github.com/NeelShah18/emot) packages, respectively.
-    - Note: although [*emot*](https://github.com/NeelShah18/emot) can also process emoji, its emoji database is not as comprehensive as that of [*emoji*](https://github.com/carpedm20/emoji/).
+    - Note: although [*emot*](https://github.com/NeelShah18/emot) can also process emoji, its emoji database is not as comprehensive as [*emoji*](https://github.com/carpedm20/emoji/).
 
 2. **Choosing the right natural language processing (NLP)models**
     - Test unsupervised NLP: [TextBlob](https://textblob.readthedocs.io) and [VADER](https://www.nltk.org/_modules/nltk/sentiment/vader.html)
