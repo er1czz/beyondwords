@@ -26,7 +26,7 @@
  - User engagement is the key (top predictive features: characters, words, and their averages)
 
 <p align="center"><img src="https://github.com/er1czz/beyondwords/blob/main/NLP_benchmark.PNG", style = "border:10px solid white"></p>
-<p align="center">NLP Models Performance Comparision, OTS:off-the-shelf </p>
+<p align="center">NLP Models Performance Comparision, OTS: off-the-shelf </p>
 
 
 **To Be Continued**
