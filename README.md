@@ -26,7 +26,7 @@
  - Only use text data generated within the free-trial period
  - Extract sentiment features, number of likes, words, characters, as well as their average by comment number for each user
  - Apply a stacking classifier (Random Forest, XGBoost, and Ridge combined by Logistic Regression)
- - Predicted nearly every conversion event (recall 0.99 , precision 0.60)
+ - Predicted almost all conversion events (recall 0.99, precision 0.60)
 
 5. Takeaways 
  - Top predictive features: characters, words, and their averages
@@ -43,7 +43,6 @@
 <p align="center"><img src="NLP_benchmark.PNG" /></p>
 <p align="center"><b>NLP Models Performance Comparision</b>, OTS: off-the-shelf </p>
 </details>
-
 
 
 **To Be Continued**
