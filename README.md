@@ -2,7 +2,7 @@
 <p align="center">
    <img src="https://github.com/er1czz/beyondwords/blob/main/word_cloud_1.png"  width="500" style = "border:30px solid white"/> 
 </p>  
-<p align="center">**Word Cloud Generated from User Text Data**</p>
+<p align="center"><b>Word Cloud Generated from User Text Data</b></p>
 
 ## Executive Summary
   * Software as a service (SaaS) is a major sector of cloud computing business. To thrive in this competitive market, growing user base is a crucial drive of business. Predicting and understanding customer decision is imperative to help a company quickly adapt its product to meet users’ needs.  
@@ -28,7 +28,7 @@
  - User engagement is the key (top predictive features: characters, words, and their averages)
 
 <p align="center"><img src="https://github.com/er1czz/beyondwords/blob/main/NLP_benchmark.PNG", style = "border:10px solid white"></p>
-<p align="center">**NLP Models Performance Comparision**, OTS: off-the-shelf </p>
+<p align="center"><b>NLP Models Performance Comparision</b>, OTS: off-the-shelf </p>
 
 
 **To Be Continued**
