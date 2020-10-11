@@ -11,5 +11,6 @@
 1. Preprocessing text data for machine to read
 2. Choosing the right model
 3. Tuning the model with proper labels
-4. Predicting user conversion within free-trial period
+4. Predicting user conversion within free-trial period  
+
 **To Be Continued**
