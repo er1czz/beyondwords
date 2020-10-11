@@ -22,7 +22,7 @@
     - Create two type of labels for each text: Tone (netural/positive) and Fact (none/partial/rich)
     - Fine-tune two BERT models through [ktrain](https://arxiv.org/abs/2004.10703) for each label class separately
     - Achieved accuracy score 0.85 and 0.78 for Tone and Fact, respectively
-    - Note: a less computationally intensive approach is combining two label classes into one (2x3) to train one BERT model (accuracy score 0.67 due to data imbalance)
+    - Note: another approach is to merge two label classes into one (2x3) to train one model (less costly but weakned prediction: accuracy score 0.67 due to data imbalance)
  
 4. **Predicting user subscription within free-trial period**
     - Only use text data generated within the time period of free-trial
