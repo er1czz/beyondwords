@@ -45,6 +45,6 @@
 </details>
 
 <p><b> Updated 2020/10/11</b></p>  
-[Return to GitHub](https://github.com/er1czz)
+<p><b>My GitHub: https://github.com/er1czz</b></p>
 <p align="center">  >>>>>> <b> CC BY 4.0 </b> <<<<<<</p>
 
