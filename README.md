@@ -25,7 +25,7 @@
 4. Predicting user subscription within free-trial period
  - Only use text data generated within the free-trial period
  - Extract sentiment features, number of likes, words, characters, as well as their average by comment number for each user
- - Apply a tacking classifier (Random Forest, XGBoost, and Ridge combined by Logistic Regression)
+ - Apply a stacking classifier (Random Forest, XGBoost, and Ridge combined by Logistic Regression)
 
 5. Takeaways
  - Top predictive features: characters, words, and their averages
