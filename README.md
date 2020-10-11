@@ -8,8 +8,8 @@
   * Several features were extracted from the text data by machine learning, including sentiment, number of characters, number of words, etc. A classification algorithm was used to process the text data, which predicted nearly 100% user conversions within the free-trial period. This algorithmic approach can facilitate the client to develop effective marketing strategy to target users. Consequently, the growth rate of premium user base is expected to be improved by increasing the user conversion rate. Similar approach can be used to improve user retention by predicting user unsubscription events.
 
 <p float="left">
-  <img src="https://github.com/er1czz/beyondwords/blob/main/User_Events.PNG" width="100" />
-  <img src="https://github.com/er1czz/beyondwords/blob/main/word_cloud_1.PNG" width="100" /> 
+  <img src="https://github.com/er1czz/beyondwords/blob/main/User_Events.png" width="100" />
+  <img src="https://github.com/er1czz/beyondwords/blob/main/word_cloud_1.png" width="100" /> 
 </p>
 
 **The key steps of this data science project are listed as follows:**   
