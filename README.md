@@ -34,12 +34,12 @@
 
 ## Examples
  <details>
-   <summary>Click to show to an example of <b>emoji and emoticon conversion</b></summary>
+   <summary>Click to show to an example of <b>Emoji and Emoticon Conversion</b></summary>
  <p align="center"><img src="emo_convert.png" /></p>
 </details>
 
  <details>
-   <summary>Click to show the <b>sanity check</b> of sentiment analysis by different NLP models</summary>
+   <summary>Click to show the <b>Sanity Check</b> of sentiment analysis by different NLP models</summary>
 <p align="center"><img src="NLP_benchmark.PNG" /></p>
 <p align="center"><b>NLP Models Performance Comparision</b>, OTS: off-the-shelf </p>
 </details>
