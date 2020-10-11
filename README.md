@@ -30,7 +30,7 @@
 
 5. **Takeaways** 
    - Top predictive features: characters, words, and their averages
-   - User engagement is a key factor to improve conversion
+   - User engagement is a key factor of user conversion
 
 ## Examples
  <details>
