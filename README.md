@@ -25,4 +25,8 @@
  - A stacking classifier (Random Forest, XGBoost, and Ridge combined by Logistic Regression)
  - User engagement is the key (top predictive features: characters, words, and their averages)
 
+<p align="center"><img src="https://github.com/er1czz/beyondwords/blob/main/NLP_benchmark.PNG", width="400", style = "border:10px solid white"></p>
+<p align="center">NLP models performance comparision<b>Statista</b></p>
+
+
 **To Be Continued**
