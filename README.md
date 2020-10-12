@@ -5,7 +5,7 @@
 
 ## Executive Summary
   * Software as a service (SaaS) is a major sector of cloud computing business. To thrive in this competitive market, growing user base is a crucial drive of business. Predicting and understanding customer decision are imperative to help a company timely adapt its service to meet users’ needs.  
-  * Performing sentiment and text analysis on user communication data can be an effective approach to reflect user experience or satisfaction level. An algorithmic approach based on the user text data was carried out to predict when a user is about to subscribe or unsubscribe. The client of this consulting project is a startup company specializing platforms designed for content creators to create their mobile apps. The data are generated from user communication in-app.  
+  * Performing sentiment and text analysis on user communication data can be an effective approach to reflect user experience or satisfaction level. An algorithmic approach based on the user text data was carried out to predict when a user is about to subscribe or unsubscribe. The client of this consulting project is a startup company specializing in platforms designed for content creators to create their mobile apps. The data are generated from user communication in-app.  
   * Several features were extracted from the text data, including sentiment, number of characters, number of words, etc. A model was trained based on these features to predict user decision. Specifically, this model examined user conversion events within the free-trial period, which successfully predicted nearly all the events. Therefore, this algorithmic approach can facilitate the development of marketing strategies for client to grow the premium user base by more trial promotions. Similar approach can be used to improve user retention by predicting user unsubscription events (customer churn).
 
 ## Key Procedures
@@ -28,7 +28,7 @@
     - Only use text data generated within the time period of free-trial
     - Extract sentiment features, number of likes, words, characters, as well as their average by comment number for each user
     - Apply a stacking classifier (Random Forest, XGBoost, and Ridge combined by Logistic Regression)
-    - Predicted almost all conversion events (recall 0.99, precision 0.60)
+    - Predicted almost all subscription events (recall 0.99, precision 0.60)
 
 5. **Takeaways** 
    - Top predictive features: characters, words, and their averages
@@ -46,7 +46,7 @@
 <p align="center"><b>NLP Models Performance Comparision</b>, OTS: off-the-shelf </p>
 </details> 
 
-## Updated 2020/10/11   
+## Updated 2020/10/12   
 [**Current Page**](https://er1czz.github.io/beyondwords)    
 [**Return to My GitHub**](https://github.com/er1czz)  
 
