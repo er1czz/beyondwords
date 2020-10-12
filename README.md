@@ -47,7 +47,8 @@
 </details>
 ## 
 
-**Updated 2020/10/11**   
+**Updated 2020/10/11**
+[Current Page](https://er1czz.github.io/beyondwords)
 [**Return to My GitHub**](https://github.com/er1czz)  
 
 
