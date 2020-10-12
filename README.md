@@ -44,11 +44,10 @@
    <summary>Click to show the <b>Sanity Check</b> of sentiment analysis by different NLP models</summary>
 <p align="center"><img src="NLP_benchmark.PNG" /></p>
 <p align="center"><b>NLP Models Performance Comparision</b>, OTS: off-the-shelf </p>
-</details>
-## 
+</details> 
 
-**Updated 2020/10/11**
-[Current Page](https://er1czz.github.io/beyondwords)
+## Updated 2020/10/11   
+[Current Page](https://er1czz.github.io/beyondwords)    
 [**Return to My GitHub**](https://github.com/er1czz)  
 
 
