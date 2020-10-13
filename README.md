@@ -19,7 +19,7 @@
     - Highly skewed data: user text contents were overwhelmingly positive and supportive, unsuitable for existing unsupervised models or off-the-shelf supervised models.
  
 3. **Tuning BERT model with proper labelling**
-    - Create two type of labels for each text: Tone (positive/neutral/~~negative~~) and Fact (rich/partial/none)
+    - Create two type of labels for each text: Tone (positive/neutral/negative) and Fact (rich/partial/none)
     - Fine-tune two BERT models through [ktrain](https://arxiv.org/abs/2004.10703) for each label class separately
     - Achieved accuracy score 0.85 and 0.78 for Tone and Fact, respectively
     - Note: another approach is to merge two label classes into one (2x3) to train one model (less costly but weakned prediction: accuracy score 0.67 due to data imbalance)
