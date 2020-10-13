@@ -46,7 +46,7 @@
 <p align="center"><b>NLP Models Performance Comparision</b>, OTS: off-the-shelf </p>
 </details> 
 
-## Updated 2020/10/12   
+## Updated 2020/10/13   
 [**Current Page**](https://er1czz.github.io/beyondwords)    
 [**Return to My GitHub**](https://github.com/er1czz)  
 
