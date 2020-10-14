@@ -26,13 +26,17 @@
  
 4. **Predicting user subscription within free-trial period**
     - Only use text data generated within the time period of free-trial
-    - Extract sentiment features, number of likes, words, characters, as well as their average by comment number for each user
+    - Extract text features, including words, characters, as well as their average by comment number for each user
+    - Combine text features and sentiment features to predict user subscription within free trial
     - Apply a stacking classifier (Random Forest, XGBoost, and Ridge combined by Logistic Regression)
     - Predicted almost all subscription events (recall 0.97)
 
 5. **Takeaways** 
-   - Top predictive features: characters, words, and their averages
+   - Strong correlation between text and sentiment features
+   - Text features are good enough
    - User engagement level is a key indicator of conversion within the free-trial
+   - Recommend casual analysis to determine the causation
+   - Recommend A/B testing to evaluate app features that can faciliate user conversion
 
 ## Examples
  <details>
