@@ -15,7 +15,7 @@
 
 2. **Choosing the right natural language processing (NLP)models**
     - Test unsupervised NLP: [TextBlob](https://textblob.readthedocs.io) and [VADER](https://www.nltk.org/_modules/nltk/sentiment/vader.html)
-    - Test supervised NLP: off-the-shelf [Pretrained BERT (state-of-the-art)](https://huggingface.co/transformers/main_classes/pipelines.html#transformers.pipeline)
+    - Test supervised NLP: off-the-shelf pretrained [BERT (state-of-the-art)](https://huggingface.co/transformers/main_classes/pipelines.html#transformers.pipeline)
     - Highly skewed data: user text contents were overwhelmingly positive and supportive, unsuitable for existing unsupervised models or off-the-shelf supervised models.
  
 3. **Tuning BERT model with proper labelling**
