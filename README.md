@@ -28,7 +28,7 @@
     - Only use text data generated within the time period of free-trial
     - Extract sentiment features, number of likes, words, characters, as well as their average by comment number for each user
     - Apply a stacking classifier (Random Forest, XGBoost, and Ridge combined by Logistic Regression)
-    - Predicted almost all subscription events (recall 0.99, precision 0.60)
+    - Predicted almost all subscription events (recall 0.97)
 
 5. **Takeaways** 
    - Top predictive features: characters, words, and their averages
