@@ -34,9 +34,8 @@
 5. **Takeaways** 
    - Strong correlation between text and sentiment features
    - Text features are good enough
-   - User engagement level is a key indicator of conversion within the free-trial
-   - Recommend casual analysis to determine the causation
-   - Recommend A/B testing to evaluate app features that can faciliate user conversion
+   - User engagement level is a key indicator of subscription within the free-trial
+   - Recommend A/B testing on app features that faciliate user communication, which can reveal the causation.
 
 ## Examples
  <details>
