@@ -33,7 +33,7 @@
 
 5. **Takeaways** 
    - Strong correlation between text and sentiment features
-   - - text features are good enough to predict user decision (easy to scale up)
+     - text features are good enough to predict user decision (easy to scale up)
    - User engagement level is a key indicator of user decision
    - Churned user data imply that user engagement has an average life cycle of 8 months 
    - Recommend A/B testing on app features that faciliate user communication, which can reveal the causation.
