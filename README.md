@@ -47,7 +47,7 @@
 
  <details>
    <summary>Click to show the <b>Sanity Check</b> of sentiment analysis by different NLP models</summary>
-<p align="center"><img src="NLP_benchmark.PNG" /></p>
+<p align="center"><img src="NLP_benchmark.png" /></p>
 <p align="center"><b>NLP Models Performance Comparision</b>, OTS: off-the-shelf </p>
 </details> 
 
