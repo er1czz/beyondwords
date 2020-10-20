@@ -33,7 +33,7 @@
 
 5. **Takeaways** 
    - Strong correlation between text and sentiment features
-     - text features are good enough to predict user decision (easy to scale up)
+     - text features are good enough to predict user decision (easy to scale up for big data)
    - User engagement level is a key indicator of user decision
       - Comparing the data between churned users and active subscribers imply that premium user engagement has a life cycle up to 12 months 
       - Comparing the data between free users and first-time subscribers suggest that user activity level during free trial is indicative for user bounce
@@ -51,7 +51,7 @@
 <p align="center"><b>NLP Models Performance Comparision</b>, OTS: off-the-shelf </p>
 </details> 
 
-## Updated 2020/10/13   
+## Updated 2020/10/20   
 [**Current Page**](https://er1czz.github.io/beyondwords)    
 [**Return to My GitHub**](https://github.com/er1czz)  
 
