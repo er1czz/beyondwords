@@ -35,7 +35,8 @@
    - Strong correlation between text and sentiment features
      - text features are good enough to predict user decision (easy to scale up)
    - User engagement level is a key indicator of user decision
-   - Churned user data imply that user engagement has a life cycle up to 12 months 
+      - Comparing the data between churned users and active subscribers imply that premium user engagement has a life cycle up to 12 months 
+      - Comparing the data between free users and first-time subscribers suggest that user activity level during free trial is indicative for user bounce
    - Recommend A/B testing on app features that faciliate user communication, which can reveal the causation.
 
 ## Examples
