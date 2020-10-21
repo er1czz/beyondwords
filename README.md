@@ -26,18 +26,20 @@
  
 4. **Predicting user churn and bounce**
     - Only use text data generated before user decisions
-    - Extract text features, including words, characters, as well as their average by comment number for each user
+    - Extract text features, including number of word, character, and text in differnt time periods for each user
     - Combine text features and sentiment features (60 features)
-    - Comparable results from Random Forest (RF), XGBoost (XGB), and a stacking ensemble (combined RF and XGB by Logistic Regression)
+    - Applied Random Forest (RF), XGBoost (XGB), and a stacking ensemble (combined RF and XGB by Logistic Regression)
     - Achieved 0.87 and 0.76 accuracy for churn and bounce, respectively.
 
 5. **Takeaways** 
    - Strong correlation between text and sentiment features
      - text features are good enough to predict user decision (easy to scale up for big data)
    - User engagement level is a key indicator of user decision
-      - premium user engagement may have a life cycle up to 12 months 
+      - premium user engagement may have a life cycle up to 8 months 
       - user with low activity during free trial is less likely to order subscription
-   - Recommend A/B testing on app features that faciliate user communication, which can reveal the causation.
+   - With more data 
+      - split data into observation and response time windows
+      - make real-time prediction by creating feedback loop to constant update model
 
 ## Examples
  <details>
