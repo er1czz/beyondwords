@@ -28,7 +28,7 @@
     - Only use text data generated before user decisions
     - Extract text features, including words, characters, as well as their average by comment number for each user
     - Combine text features and sentiment features (60 features)
-    - Apply a stacking classifier (Random Forest, XGBoost, and Ridge combined by Logistic Regression)
+    - Comparable results from Random Forest (RF), XGBoost (XGB), and a stacking ensemble (combined RF and XGB by Logistic Regression)
     - Achieved 0.87 and 0.76 accuracy for churn and bounce, respectively.
 
 5. **Takeaways** 
