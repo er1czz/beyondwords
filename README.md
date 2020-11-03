@@ -40,8 +40,7 @@
    - With more data 
       - real-time prediction by creating feedback loop to constant update model  
 
-## [Presentation](https://youtu.be/dEOtCvfDBio)
-## [Slides](https://er1czz.github.io/cv/Eric_Zhang_insight_demo.pdf)
+## [Presentation](https://youtu.be/dEOtCvfDBio)  [Slides](https://er1czz.github.io/cv/Eric_Zhang_insight_demo.pdf)
 
 ## Examples
  <details>
