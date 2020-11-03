@@ -33,14 +33,14 @@
 
 5. **Takeaways** 
    - Strong correlation between text and sentiment features
-     - text meta features are good enough to predict user decision (easy to scale up for big data)
+      - text meta features are good enough to predict user decision (easy to scale up for big data)
    - User engagement level is a key indicator of user decision
-      - users prone to churn were typing less than users prone to continue subscription
+      - model can predict user churn 4 weeks before user decision
       - premium users have a lifetime 3-4 months 
-      - user with low text activity during free trial is less likely to order subscription
    - With more data 
-      - real-time prediction by creating feedback loop to constant update model
-      - topic modeling for user segmentation (LDA or tf-idf)
+      - real-time prediction by creating feedback loop to constant update model  
+
+## [Presentation](https://er1czz.github.io/cv/Eric_Zhang_insight_demo.pdf)
 
 ## Examples
  <details>
@@ -54,7 +54,8 @@
 <p align="center"><b>NLP Models Performance Comparision</b>, OTS: off-the-shelf </p>
 </details> 
 
-## Updated 2020/10/20   
+## Updated 2020/11/02
+## Created 2020/10/10
 [**Current Page**](https://er1czz.github.io/beyondwords)    
 [**Return to My GitHub**](https://github.com/er1czz)  
 
