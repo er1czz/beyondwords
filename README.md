@@ -6,7 +6,7 @@
 ## Executive Summary
   * Software as a service (SaaS) is a major sector of cloud computing business. To thrive in this competitive market, growing user base is a crucial drive of business. Predicting and understanding customer decision are imperative to help a company timely adapt its service to meet users’ needs.  
   * Performing sentiment and text analysis on user communication data can be an effective approach to reflect user experience or satisfaction level. An algorithmic approach based on the user text data was carried out to predict when a user is about to subscribe or unsubscribe. The client of this consulting project is a startup company specializing in platforms designed for content creators to create their mobile apps. The data are generated from user communication in-app.  
-  * 60 features were extracted from the text data marked with different time periods, including sentiment, number of characters, number of words, etc. Machine learning models such as Random Forest and XGBoost were trained by data with these features to predict user decision. Specifically, this model predicted both user churn and bounce events with near 0.9 and 0.8 accuracy, respectively. Key factors such as number of character typed by users at different time were identified. Additional time-series analysis reavealed a possible life cycle of user engagement. Therefore, this algorithmic approach can facilitate the development of marketing strategies for client to grown and retain the premium user base through trial promotions and in-app perks (A/B testing would be recommended).
+  * 60 features were extracted from the text data marked with different time periods, including sentiment, number of characters, number of words, etc. Machine learning models such as Random Forest and XGBoost were trained by data with these features to predict user decision. Specifically, this model can 1) forecast user at high risk of churning 4 weeks in advance with 0.87 AUC and 2) esimate user lifecycle that was corroborated by additional time-series analysis. My client can have valuable time to take action (e.g. sending out targeted surveys and in-app perks). Moreover, this model can evaluate the performance of these strategies. Therefore, this algorithmic approach can help my client to grown the premium users base through prediction and evaluation.
 
 ## Key Procedures
 1. **Preprocessing text data for machine to read**
@@ -54,7 +54,7 @@
 <p align="center"><b>NLP Models Performance Comparision</b>, OTS: off-the-shelf </p>
 </details> 
 
-## Last update 2020/11/02
+## Last update 2020/11/05
 ## Created 2020/10/08
 [**Current Page**](https://er1czz.github.io/beyondwords)    
 [**Return to My GitHub**](https://github.com/er1czz)  
