@@ -38,7 +38,7 @@
       - model can predict user churn 4 weeks before user decision
       - premium users have a lifetime 3-4 months 
    - With more data 
-      - real-time prediction by creating feedback loop to constant update model  
+      - real-time prediction and evaluation by sliding window approach 
 
 ## Presentation: [YouTube](https://youtu.be/dEOtCvfDBio) and [slides](https://er1czz.github.io/cv/Eric_Zhang_insight_demo.pdf)
 
